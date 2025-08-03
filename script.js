@@ -2,8 +2,8 @@ const tracks = [
   {
     title: "Si Supieras",
     artist: "Kevin Kaarl",
-    src: "Music/Si Supieras.mp3",
-    cover: "Album/61522e0914296b702a7c7f96da6d0224.jpg"
+    src: "Si Supieras.mp3",
+    cover: "61522e0914296b702a7c7f96da6d0224.jpg"
   },
   {
     title: "Otra canción",
@@ -136,4 +136,5 @@ easterBtn.addEventListener("click", () => {
 
 
   document.body.appendChild(messageContainer);
+
 });
